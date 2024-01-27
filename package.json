@@ -1,0 +1,19 @@
+{
+  "name": "solana-get-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.89.1",
+    "@types/node": "^20.11.7",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

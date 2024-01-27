@@ -1,1 +1,0 @@
-# solana-get-token
